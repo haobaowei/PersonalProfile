@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,page01_jpg,page02_jpg,page01bj_jpg,page02bj_jpg,Weichi01_png,Weichi02_png,Black_png,White_png,White02_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "page01_jpg",
+			"type": "image",
+			"url": "assets/page01.jpg"
+		},
+		{
+			"name": "page02_jpg",
+			"type": "image",
+			"url": "assets/page02.jpg"
+		},
+		{
+			"name": "page01bj_jpg",
+			"type": "image",
+			"url": "assets/page01bj.jpg"
+		},
+		{
+			"name": "page02bj_jpg",
+			"type": "image",
+			"url": "assets/page02bj.jpg"
+		},
+		{
+			"name": "Weichi01_png",
+			"type": "image",
+			"url": "assets/Weichi01.png"
+		},
+		{
+			"name": "Weichi02_png",
+			"type": "image",
+			"url": "assets/Weichi02.png"
+		},
+		{
+			"name": "Black_png",
+			"type": "image",
+			"url": "assets/Black.png"
+		},
+		{
+			"name": "White_png",
+			"type": "image",
+			"url": "assets/White.png"
+		},
+		{
+			"name": "White02_png",
+			"type": "image",
+			"url": "assets/White02.png"
+		}
+	]
+}
